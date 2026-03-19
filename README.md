@@ -6,3 +6,5 @@ I heard that going to Jupyter makes you stupider!???
 Back on the wagon
 # 3-18-26
 Another Update
+# 3-19-26
+More stuff
